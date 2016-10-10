@@ -28,9 +28,15 @@ Collected guidelines for NumFOCUS projects
    - responsible for release mechanics
    - publicize release
    - contact down-stream packagers
- - subjet / code area specialist
+ - subject / code area specialist
    - responsible for a section of the code base
  - 'senior contributor'
    - can have shepperding of PRs assigned to them
  - contributor
    - do code review / merging
+
+## Other useful roles that a project needs to succeed
+ - project management (communication and contributor evangelism)
+ - technical writing
+ - user evangelism and support
+ - UX design
