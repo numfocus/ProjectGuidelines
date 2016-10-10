@@ -1,6 +1,14 @@
 # ProjectGuidelines
 Collected guidelines for NumFOCUS projects
 
+## Example contributing guide
+
+  - add link here
+
+## Example Code of Conduct
+
+  -add link here
+
 ## PR review guidelines
 
   - https://docs.google.com/document/d/1VwV79BYqFACrOUaJp1QfkSQMezVVEuhA_nqgnu52wos/edit#
