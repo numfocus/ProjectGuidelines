@@ -3,11 +3,12 @@ Collected guidelines for NumFOCUS projects
 
 ## Example contributing guide
 
-  - [Nteract Contributing guide](https://github.com/nteract/nteract/blob/master/CONTRIBUTING.md)
+  - [nteract Contributing guide](https://github.com/nteract/nteract/blob/master/CONTRIBUTING.md)
 
 ## Example Code of Conduct
 
-  - add link here
+  - [nteract Code of Conduct](https://github.com/nteract/nteract/blob/master/CODE_OF_CONDUCT.md)
+  - [Contributor Covenant](http://contributor-covenant.org/)
 
 ## PR review guidelines
 
