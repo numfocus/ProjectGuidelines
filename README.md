@@ -4,6 +4,7 @@ Collected guidelines for NumFOCUS projects
 ## Example contributing guide
 
   - [nteract Contributing guide](https://github.com/nteract/nteract/blob/master/CONTRIBUTING.md)
+  - [Pandas Contributing documentation](http://pandas.pydata.org/pandas-docs/stable/contributing.html)
 
 ## Example Code of Conduct
 
@@ -18,7 +19,7 @@ Collected guidelines for NumFOCUS projects
 ## Governace
   - https://github.com/jupyter/governance
   - https://github.com/matplotlib/governance
-
+  - https://github.com/pydata/pandas-governance
 
 ## Contributor guide lines
 
