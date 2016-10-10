@@ -13,7 +13,7 @@ Collected guidelines for NumFOCUS projects
 
 ## PR review guidelines
 
-  - https://docs.google.com/document/d/1VwV79BYqFACrOUaJp1QfkSQMezVVEuhA_nqgnu52wos/edit#
+ - http://matplotlib.org/devdocs/devel/coding_guide.html?highlight=review#pr-review-guidelines
 
 
 ## Governace
