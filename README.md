@@ -40,3 +40,9 @@ Collected guidelines for NumFOCUS projects
  - technical writing
  - user evangelism and support
  - UX design
+
+## technical how-to
+
+ - [gitwash](https://github.com/matthew-brett/gitwash)
+ - how to set up travis / appveyor
+ - how to set up conda-forge / build chain
