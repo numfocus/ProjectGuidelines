@@ -16,7 +16,7 @@ Collected guidelines for NumFOCUS projects
  - http://matplotlib.org/devdocs/devel/coding_guide.html?highlight=review#pr-review-guidelines
 
 
-## Governace
+## Governance
   - https://github.com/jupyter/governance
   - https://github.com/matplotlib/governance
   - https://github.com/pydata/pandas-governance
